@@ -8,7 +8,7 @@ The project attached is a poll application which allows the users to vote on a s
 - [Credits](#credits)
 
 ## Installation
-Clone the repository: git clone https://github.com/mairaverona/CompulsoryTask2.git
+Clone the repository: git clone https://github.com/FormalHitman/CompulsoryTask2.git
 Navigate to the project directory: cd your-project
 Install the required dependencies: pip install -r requirements.txt
 Set up the database: python manage.py migrate
