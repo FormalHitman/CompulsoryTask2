@@ -17,7 +17,7 @@ Start the development server: python manage.py runserver
 Access the project in your web browser at http://localhost:8000/
 
 ## Usage
-After following the installation steps, you can use bookClub as follows:
+After following the installation steps, you can use polls as follows:
 
 Open a web browser and navigate to 'http://127.0.0.1:8000/admin/'
 To go to currently reading page navigate to 'http://127.0.0.1:8000/polls/'
